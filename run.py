@@ -1,3 +1,4 @@
+## Imports
 import argparse
 
 from src.main import main
