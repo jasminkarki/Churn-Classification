@@ -31,4 +31,4 @@ Account_Length, Voicemail_Message, Day_Minutes, Evening_Minutes, Night_Minutes,I
 
 ```
 
-our model will append a `Chrun` column with the predictions and save it in the `out` directory.
+our model will append a `Churn` column with the predictions and save it in the `out` directory.
